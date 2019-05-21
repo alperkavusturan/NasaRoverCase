@@ -19,7 +19,7 @@ namespace MarsRoverCase
 
             #endregion
 
-            //Implement our Rovers and set their first values
+            //Implement Rovers and set their first values
             #region implementation
 
             Rover rover1 = new Rover();
